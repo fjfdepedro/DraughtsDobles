@@ -58,6 +58,5 @@ public class PlayControllerTest {
             { new Coordinate(2, 3), new Coordinate(3, 2) },
             { new Coordinate(4, 1), new Coordinate(2, 3) },
         }));
-        assertTrue(playController.isBlocked());
     }
 }
